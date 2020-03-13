@@ -1,0 +1,13 @@
+body {
+  background-image: url("/Stemwijzer/images/background.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#vragen-container {
+  display: none;
+}
+
+.back-button:hover {
+  color: orangered;
+}

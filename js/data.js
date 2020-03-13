@@ -164,7 +164,7 @@ var subjects = [{
       {
         "name": "VNL",
         "position": "pro",
-        "opinion": "Burgers moeten meer inspraak krijgen bij politieke besluitvorming. Wij zijn voor een bindend referendum zodat de regering de uitslag niet naast zich neer kan leggen, zoals gebeurde bij het referendum over de Europese Grondwet in 2005 en het OekraÃ¯ne-referendum van vorig jaar. "
+        "opinion": "Burgers moeten meer inspraak krijgen bij politieke besluitvorming. Wij zijn voor een bindend referendum zodat de regering de uitslag niet naast zich neer kan leggen, zoals gebeurde bij het referendum over de Europese Grondwet in 2005 en het Oekraïne-referendum van vorig jaar. "
       },
       {
         "name": "Nieuwe Wegen",
@@ -174,7 +174,7 @@ var subjects = [{
       {
         "name": "Forum voor Democratie",
         "position": "pro",
-        "opinion": "Dit is de enige manier om politici te dwingen om naar de bevolking te luisteren. Niet-bindende referenda worden niet serieus genomen, zie referenda over EU Grondwet en Associatieverdrag OekraÃ¯ne."
+        "opinion": "Dit is de enige manier om politici te dwingen om naar de bevolking te luisteren. Niet-bindende referenda worden niet serieus genomen, zie referenda over EU Grondwet en Associatieverdrag Oekraïne."
       },
       {
         "name": "De Burger Beweging",
@@ -224,7 +224,7 @@ var subjects = [{
       {
         "name": "ChristenUnie",
         "position": "contra",
-        "opinion": "De ChristenUnie is tegen een referendum, de bevolking kiest al rechtstreeks haar vertegenwoordigers. Dat is de â€˜representatieve democratieâ€™ waar de ChristenUnie voor staat. Wel komt er, om onze vrijheidsrechten uit de grondwet te beschermen een Constitutioneel Hof dat wetten toetst aan de Grondwet."
+        "opinion": "De ChristenUnie is tegen een referendum, de bevolking kiest al rechtstreeks haar vertegenwoordigers. Dat is de ‘representatieve democratie’ waar de ChristenUnie voor staat. Wel komt er, om onze vrijheidsrechten uit de grondwet te beschermen een Constitutioneel Hof dat wetten toetst aan de Grondwet."
       },
       {
         "name": "SGP",
@@ -309,7 +309,7 @@ var subjects = [{
       {
         "name": "D66",
         "position": "contra",
-        "opinion": "Natuurlijk is het mooi als jongeren zich willen inzetten voor de maatschappij, maar dat is het juist als zij er zÃ©lf voor kiezen. Daarom wil D66 dit niet verplicht stellen. Scholen kunnen kiezen voor het aanbieden van een maatschappelijke stage, maar dat moet niet door de overheid worden opgelegd."
+        "opinion": "Natuurlijk is het mooi als jongeren zich willen inzetten voor de maatschappij, maar dat is het juist als zij er zélf voor kiezen. Daarom wil D66 dit niet verplicht stellen. Scholen kunnen kiezen voor het aanbieden van een maatschappelijke stage, maar dat moet niet door de overheid worden opgelegd."
       },
       {
         "name": "GroenLinks",
@@ -319,7 +319,7 @@ var subjects = [{
       {
         "name": "Partij voor de Dieren",
         "position": "contra",
-        "opinion": "De Partij voor de Dieren vindt het belangrijk dat jongeren zonder baan kunnen werken aan betere kansen op de arbeidsmarkt in werkgelegenheidsprojecten, bijvoorbeeld in de zorg of in de biologische landbouw. Zoâ€™n stage zou nooit een verplichtend karakter mogen hebben, maar altijd op vrijwillige basis moeten gebeuren."
+        "opinion": "De Partij voor de Dieren vindt het belangrijk dat jongeren zonder baan kunnen werken aan betere kansen op de arbeidsmarkt in werkgelegenheidsprojecten, bijvoorbeeld in de zorg of in de biologische landbouw. Zo’n stage zou nooit een verplichtend karakter mogen hebben, maar altijd op vrijwillige basis moeten gebeuren."
       },
       {
         "name": "OndernemersPartij",
@@ -354,7 +354,7 @@ var subjects = [{
       {
         "name": "Artikel 1",
         "position": "contra",
-        "opinion": "Dit zorgt voor verdringing van reguliere banen, en is in strijd met het gelijkwaardigheidsprincipe : â€œgelijk loon voor gelijk werkâ€,  zoals vastgelegd in de Universele Verklaring voor de Rechten van de Mens. Liever zien wij sociaal-maatschappelijk bewustzijn als structureel onderdeel van het onderwijs."
+        "opinion": "Dit zorgt voor verdringing van reguliere banen, en is in strijd met het gelijkwaardigheidsprincipe : “gelijk loon voor gelijk werk”,  zoals vastgelegd in de Universele Verklaring voor de Rechten van de Mens. Liever zien wij sociaal-maatschappelijk bewustzijn als structureel onderdeel van het onderwijs."
       },
       {
         "name": "Libertarische Partij",
@@ -374,12 +374,12 @@ var subjects = [{
     "parties": [{
         "name": "PvdA",
         "position": "pro",
-        "opinion": "Het zou eigenlijk niet nodig moeten zijn dat mensen hun leeftijd, naam of geslacht achterwege houden. Maar zolang deze vorm van discriminatie een feit is moeten we die aanpakken Ã©n mensen de kans geven om uitgenodigd te worden voor een sollicitatiegesprek. Anoniem solliciteren biedt dat perspectief. "
+        "opinion": "Het zou eigenlijk niet nodig moeten zijn dat mensen hun leeftijd, naam of geslacht achterwege houden. Maar zolang deze vorm van discriminatie een feit is moeten we die aanpakken én mensen de kans geven om uitgenodigd te worden voor een sollicitatiegesprek. Anoniem solliciteren biedt dat perspectief. "
       },
       {
         "name": "D66",
         "position": "pro",
-        "opinion": "Nederlanders met een niet-westerse achtergrond zijn drie keer vaker werkloos dan Nederlanders met een westerse achtergrond. D66 wil dit verschil terugdringen. EÃ©n van de maatregelen die D66 wil nemen is het opzetten van experimenten met neutrale sollicitatie- en promotieprocedures."
+        "opinion": "Nederlanders met een niet-westerse achtergrond zijn drie keer vaker werkloos dan Nederlanders met een westerse achtergrond. D66 wil dit verschil terugdringen. Eén van de maatregelen die D66 wil nemen is het opzetten van experimenten met neutrale sollicitatie- en promotieprocedures."
       },
       {
         "name": "GroenLinks",
@@ -394,7 +394,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "pro",
-        "opinion": "50PLUS vindt dat alle vormen van discriminatie hoog op de agenda moeten staan. Discriminatie op de arbeidsmarkt - op welke grond dan ook - moet teruggedrongen worden. Anoniem solliciteren kan daarbij helpen; solliciteren zonder vermelding van de leeftijd bijvoorbeeld Ã³Ã³k. "
+        "opinion": "50PLUS vindt dat alle vormen van discriminatie hoog op de agenda moeten staan. Discriminatie op de arbeidsmarkt - op welke grond dan ook - moet teruggedrongen worden. Anoniem solliciteren kan daarbij helpen; solliciteren zonder vermelding van de leeftijd bijvoorbeeld óók. "
       },
       {
         "name": "Lokaal in de Kamer",
@@ -524,7 +524,7 @@ var subjects = [{
       {
         "name": "Piratenpartij",
         "position": "none",
-        "opinion": "De Piratenpartij is tegen het strafbaarstellen van beledigingen. Discriminatie (een beoordeling op basis van ras, godsdienst of geaardheid) moet echter wÃ©l strafbaar blijven. De Piratenpartij wil niet tornen aan het recht op gelijke behandeling."
+        "opinion": "De Piratenpartij is tegen het strafbaarstellen van beledigingen. Discriminatie (een beoordeling op basis van ras, godsdienst of geaardheid) moet echter wél strafbaar blijven. De Piratenpartij wil niet tornen aan het recht op gelijke behandeling."
       },
       {
         "name": "Niet Stemmers",
@@ -634,12 +634,12 @@ var subjects = [{
       {
         "name": "Partij voor de Dieren",
         "position": "pro",
-        "opinion": "Het gebruik en de productie van softdrugs wordt gelegaliseerd, zodat teelt legaal wordt en er accijns over kan worden geheven. De overheid draagt zorg voor een goede voorlichting over de gezondheidsrisicoâ€™s van het gebruik van softdrugs."
+        "opinion": "Het gebruik en de productie van softdrugs wordt gelegaliseerd, zodat teelt legaal wordt en er accijns over kan worden geheven. De overheid draagt zorg voor een goede voorlichting over de gezondheidsrisico’s van het gebruik van softdrugs."
       },
       {
         "name": "50Plus",
         "position": "pro",
-        "opinion": "Niet legaliseren van wietteelt betekent: gÃ©Ã©n grip en controle over deze â€˜sectorâ€™. Totaal verbieden van gebruik Ã©n teelt zou de hele 'sector' in de illegaliteit doen verdwijnen met alle gevolgen van dien. Het is bizar dat wiet nu illegaal via de achterdeur binnen komt, en legaal verkocht mag worden via de voordeur. De teelt werkt ook criminaliteit en overlast in de hand. Tegelijkertijd steunt 50PLUS een actief ontmoedigingsbeleid voor het gebruik. Medicinale wiet wordt vergoed."
+        "opinion": "Niet legaliseren van wietteelt betekent: géén grip en controle over deze ‘sector’. Totaal verbieden van gebruik én teelt zou de hele 'sector' in de illegaliteit doen verdwijnen met alle gevolgen van dien. Het is bizar dat wiet nu illegaal via de achterdeur binnen komt, en legaal verkocht mag worden via de voordeur. De teelt werkt ook criminaliteit en overlast in de hand. Tegelijkertijd steunt 50PLUS een actief ontmoedigingsbeleid voor het gebruik. Medicinale wiet wordt vergoed."
       },
       {
         "name": "OndernemersPartij",
@@ -649,7 +649,7 @@ var subjects = [{
       {
         "name": "VNL",
         "position": "pro",
-        "opinion": "De politie moet zich bezighouden met de bestrijding van echte criminaliteit. Wiet is niet schadelijker dan alcohol en tabak. Harddrugs (bijvoorbeeld heroÃ¯ne) pakken we keihard aan. "
+        "opinion": "De politie moet zich bezighouden met de bestrijding van echte criminaliteit. Wiet is niet schadelijker dan alcohol en tabak. Harddrugs (bijvoorbeeld heroïne) pakken we keihard aan. "
       },
       {
         "name": "DENK",
@@ -724,7 +724,7 @@ var subjects = [{
       {
         "name": "SGP",
         "position": "contra",
-        "opinion": "De SGP vindt het gedoogbeleid onduidelijk en halfslachtig. De indruk wordt gewekt dat zoâ€™n beetje alles kan of door de vingers wordt gezien. Het gedoogbeleid moet daarom per direct worden afgeschaft. In plaats van gedogen wil de SGP de wet handhaven. De productie van drugs blijft dan ook strafbaar als het aan de SGP ligt. Aan gereguleerde wietteelt van de overheid moeten we niet beginnen."
+        "opinion": "De SGP vindt het gedoogbeleid onduidelijk en halfslachtig. De indruk wordt gewekt dat zo’n beetje alles kan of door de vingers wordt gezien. Het gedoogbeleid moet daarom per direct worden afgeschaft. In plaats van gedogen wil de SGP de wet handhaven. De productie van drugs blijft dan ook strafbaar als het aan de SGP ligt. Aan gereguleerde wietteelt van de overheid moeten we niet beginnen."
       }
     ]
   },
@@ -764,7 +764,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "pro",
-        "opinion": "De hele straf uitzitten vindt 50PLUS niet meer dan logisch. Het is strijdig met het rechtsgevoel van veel mensen als veroordeelden na twee derde van hun straf bijna standaard vervroegd vrij kunnen komen. Dat kÃ¡n niet de bedoeling zijn van het rechtssysteem. En, iemand met bijvoorbeeld een belastingschuld, moet deze ook in z'n geheel aflossen en niet maar voor twee derde."
+        "opinion": "De hele straf uitzitten vindt 50PLUS niet meer dan logisch. Het is strijdig met het rechtsgevoel van veel mensen als veroordeelden na twee derde van hun straf bijna standaard vervroegd vrij kunnen komen. Dat kán niet de bedoeling zijn van het rechtssysteem. En, iemand met bijvoorbeeld een belastingschuld, moet deze ook in z'n geheel aflossen en niet maar voor twee derde."
       },
       {
         "name": "OndernemersPartij",
@@ -974,7 +974,7 @@ var subjects = [{
     "parties": [{
         "name": "PvdA",
         "position": "pro",
-        "opinion": "Die kleine groep mensen in Nederland die meer dan â‚¬150.000 per jaar verdient, vragen we een extra bijdrage te leveren. Dat geld wil de PvdA gebruiken voor betere ouderenzorg."
+        "opinion": "Die kleine groep mensen in Nederland die meer dan €150.000 per jaar verdient, vragen we een extra bijdrage te leveren. Dat geld wil de PvdA gebruiken voor betere ouderenzorg."
       },
       {
         "name": "SP",
@@ -989,7 +989,7 @@ var subjects = [{
       {
         "name": "Partij voor de Dieren",
         "position": "pro",
-        "opinion": "De Partij voor de Dieren vindt dat de sterkste schouders de zwaarste lasten moeten dragen. Echter zeker zo belangrijk is een beter belastingstelsel, waarin het gebruik van grondstoffen meer belast wordt en arbeid wordt verlaagd. Zo creÃ«ren we werkgelegenheid en maken we de samenleving duurzamer."
+        "opinion": "De Partij voor de Dieren vindt dat de sterkste schouders de zwaarste lasten moeten dragen. Echter zeker zo belangrijk is een beter belastingstelsel, waarin het gebruik van grondstoffen meer belast wordt en arbeid wordt verlaagd. Zo creëren we werkgelegenheid en maken we de samenleving duurzamer."
       },
       {
         "name": "DENK",
@@ -1004,7 +1004,7 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "pro",
-        "opinion": "De Vrijzinnige Partij gaat uit van gelijkwaardigheid van mensen. Iedereen is vrij om zo veel mogelijk geld te verdienen. Maar het is de samenleving die dat mogelijk maakt. Dan is een progressief belastingstelsel het eerlijkst. De Vrijzinnige Partij stelt een nieuw toptarief van 65 % voor voor inkomens boven de â‚¬ 229.001"
+        "opinion": "De Vrijzinnige Partij gaat uit van gelijkwaardigheid van mensen. Iedereen is vrij om zo veel mogelijk geld te verdienen. Maar het is de samenleving die dat mogelijk maakt. Dan is een progressief belastingstelsel het eerlijkst. De Vrijzinnige Partij stelt een nieuw toptarief van 65 % voor voor inkomens boven de € 229.001"
       },
       {
         "name": "Artikel 1",
@@ -1014,7 +1014,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "none",
-        "opinion": "50PLUS vindt dat de sterkste schouders de zwaarste lasten moeten dragen. DÃ¡t is en blijft ons uitgangspunt. \r\nMeer belasting voor de hoogste inkomensgroepen kan aan de orde zijn, als dat per saldo inkomensverschillen ook echt kleiner maakt Ã©n ook hogere maatschappelijke welvaart oplevert. \r\n"
+        "opinion": "50PLUS vindt dat de sterkste schouders de zwaarste lasten moeten dragen. Dát is en blijft ons uitgangspunt. \r\nMeer belasting voor de hoogste inkomensgroepen kan aan de orde zijn, als dat per saldo inkomensverschillen ook echt kleiner maakt én ook hogere maatschappelijke welvaart oplevert. \r\n"
       },
       {
         "name": "Niet Stemmers",
@@ -1049,7 +1049,7 @@ var subjects = [{
       {
         "name": "SGP",
         "position": "contra",
-        "opinion": "De SGP wil dat de lasten op arbeid worden verlaagd door het introduceren van Ã©Ã©n laag, uniform basistarief en een toptarief: de zogenoemde sociale vlaktaks. De hoogste inkomensgroepen moeten daarbij zeker niet nog meer belasting gaan betalen dan ze nu al doen.\r\n"
+        "opinion": "De SGP wil dat de lasten op arbeid worden verlaagd door het introduceren van één laag, uniform basistarief en een toptarief: de zogenoemde sociale vlaktaks. De hoogste inkomensgroepen moeten daarbij zeker niet nog meer belasting gaan betalen dan ze nu al doen.\r\n"
       },
       {
         "name": "OndernemersPartij",
@@ -1069,17 +1069,17 @@ var subjects = [{
       {
         "name": "Forum voor Democratie",
         "position": "contra",
-        "opinion": "De belastingen moeten over de hele linie omlaag, vooral voor de minst verdienenden door invoering van een belastingvrije voet van â‚¬20.000 voor iedereen. De economische dynamiek moet terug in Nederland."
+        "opinion": "De belastingen moeten over de hele linie omlaag, vooral voor de minst verdienenden door invoering van een belastingvrije voet van €20.000 voor iedereen. De economische dynamiek moet terug in Nederland."
       },
       {
         "name": "Piratenpartij",
         "position": "contra",
-        "opinion": "De Piratenpartij wil het belastingstelsel zo hervormen, dat reÃ«le productie gestimuleerd wordt. Wij willen multinationals aanpakken en het verbruik van grondstoffen meer belasten."
+        "opinion": "De Piratenpartij wil het belastingstelsel zo hervormen, dat reële productie gestimuleerd wordt. Wij willen multinationals aanpakken en het verbruik van grondstoffen meer belasten."
       },
       {
         "name": "Libertarische Partij",
         "position": "contra",
-        "opinion": "De hoogste inkomensgroepen betalen al het leeuwendeel van de opbrengsten van de inkomstenbelasting. Belasting moet juist voor alle inkomensgroepen omlaag. De LP pleit voor een belastingvrije voet van â‚¬20.000 voor alle werknemers en daarna een vlaktaks van 15,6%.\r\n"
+        "opinion": "De hoogste inkomensgroepen betalen al het leeuwendeel van de opbrengsten van de inkomstenbelasting. Belasting moet juist voor alle inkomensgroepen omlaag. De LP pleit voor een belastingvrije voet van €20.000 voor alle werknemers en daarna een vlaktaks van 15,6%.\r\n"
       },
       {
         "name": "Lokaal in de Kamer",
@@ -1129,7 +1129,7 @@ var subjects = [{
       {
         "name": "OndernemersPartij",
         "position": "pro",
-        "opinion": "Dit is goed voor ZZPÂ´ers"
+        "opinion": "Dit is goed voor ZZP´ers"
       },
       {
         "name": "VNL",
@@ -1229,7 +1229,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "pro",
-        "opinion": "De AOW-leeftijd terugbrengen naar 65 jaar is goed voor de arbeidsmarkt. Jongere en oudere werkzoekenden krijgen dan mÃ©Ã©r kansen op de arbeidsmarkt. Juist bij ouderen is de langdurige werkloosheid vaak hardnekkig en structureel. Het terugbrengen van de AOW-leeftijd naar 65 is daarnaast goed voor mensen met zware beroepen, mensen die minder verdienen en mensen met een zwakkere gezondheid. 50PLUS: AOW-leeftijd voor iedereen terug naar 65! "
+        "opinion": "De AOW-leeftijd terugbrengen naar 65 jaar is goed voor de arbeidsmarkt. Jongere en oudere werkzoekenden krijgen dan méér kansen op de arbeidsmarkt. Juist bij ouderen is de langdurige werkloosheid vaak hardnekkig en structureel. Het terugbrengen van de AOW-leeftijd naar 65 is daarnaast goed voor mensen met zware beroepen, mensen die minder verdienen en mensen met een zwakkere gezondheid. 50PLUS: AOW-leeftijd voor iedereen terug naar 65! "
       },
       {
         "name": "OndernemersPartij",
@@ -1264,7 +1264,7 @@ var subjects = [{
       {
         "name": "PvdA",
         "position": "contra",
-        "opinion": "We worden gemiddeld ouder en we willen allemaal op een gegeven moment een goede oude dag. Het kan niet anders dan dat we de AOW leeftijd moeten laten stijgen. Wie echter een leven lang hard gewerkt heeft en niet meer kÃ¡n, moet eerder kunnen stoppen. Daarom moet je zelf kunnen bepalen of je eerder stopt tegen een reÃ«le en behapbare korting op de AOW. "
+        "opinion": "We worden gemiddeld ouder en we willen allemaal op een gegeven moment een goede oude dag. Het kan niet anders dan dat we de AOW leeftijd moeten laten stijgen. Wie echter een leven lang hard gewerkt heeft en niet meer kán, moet eerder kunnen stoppen. Daarom moet je zelf kunnen bepalen of je eerder stopt tegen een reële en behapbare korting op de AOW. "
       },
       {
         "name": "CDA",
@@ -1284,7 +1284,7 @@ var subjects = [{
       {
         "name": "GroenLinks",
         "position": "contra",
-        "opinion": "GroenLinks was en is voorstander van de verhoging van de AOW-leeftijd om de AOW op lange termijn betaalbaar te houden. er is een groep mensen in fysiek zware beroepen van wie het niet reÃ«el is om te vragen langer door te werken. Voor hen wil GroenLinks vervroegde uittreding mogelijk maken."
+        "opinion": "GroenLinks was en is voorstander van de verhoging van de AOW-leeftijd om de AOW op lange termijn betaalbaar te houden. er is een groep mensen in fysiek zware beroepen van wie het niet reëel is om te vragen langer door te werken. Voor hen wil GroenLinks vervroegde uittreding mogelijk maken."
       },
       {
         "name": "SGP",
@@ -1309,7 +1309,7 @@ var subjects = [{
       {
         "name": "Forum voor Democratie",
         "position": "contra",
-        "opinion": "FVD wil de AOW-leeftijd naar 66 jaar. En voor alle AOW-ers wil FVD ook de belastingvrije voet van â‚¬20.000 zodat het koopkrachtverlies van AOW-ers onmiddellijk wordt hersteld."
+        "opinion": "FVD wil de AOW-leeftijd naar 66 jaar. En voor alle AOW-ers wil FVD ook de belastingvrije voet van €20.000 zodat het koopkrachtverlies van AOW-ers onmiddellijk wordt hersteld."
       },
       {
         "name": "Vrijzinnige Partij",
@@ -1349,7 +1349,7 @@ var subjects = [{
       {
         "name": "ChristenUnie",
         "position": "pro",
-        "opinion": "De ChristenUnie wil dat wie werkt verzekerd is tegen arbeidsongeschiktheid. Daarom zijn wij voor een verplichte verzekering voor zzpâ€™ers voor arbeidsongeschiktheid die een minimuminkomen garandeert. Dit verkleint de risicoâ€™s voor de zzpâ€™er en zorgt voor een gelijker speelveld op de arbeidsmarkt."
+        "opinion": "De ChristenUnie wil dat wie werkt verzekerd is tegen arbeidsongeschiktheid. Daarom zijn wij voor een verplichte verzekering voor zzp’ers voor arbeidsongeschiktheid die een minimuminkomen garandeert. Dit verkleint de risico’s voor de zzp’er en zorgt voor een gelijker speelveld op de arbeidsmarkt."
       },
       {
         "name": "GroenLinks",
@@ -1359,7 +1359,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "pro",
-        "opinion": "50PLUS vindt het verstandig om zzpâ€™ers verplicht te stellen zich te verzekeren tegen arbeidsongeschiktheid en ook verplicht pensioen op te laten bouwen. Die verplichting moet voor iedereen gelden, zodat een gelijk speelveld ontstaat voor Ã¡lle zzpâ€™ers. Dit heeft ook het voordeel dat een meer gelijk speelveld ontstaat met werknemers in loondienst die ook deze verplichte verzekerings-en pensioenkosten hebben. Hiermee kan de kloof tussen vast,  tijdelijk en flexibel werk enigszins geslecht worden."
+        "opinion": "50PLUS vindt het verstandig om zzp’ers verplicht te stellen zich te verzekeren tegen arbeidsongeschiktheid en ook verplicht pensioen op te laten bouwen. Die verplichting moet voor iedereen gelden, zodat een gelijk speelveld ontstaat voor álle zzp’ers. Dit heeft ook het voordeel dat een meer gelijk speelveld ontstaat met werknemers in loondienst die ook deze verplichte verzekerings-en pensioenkosten hebben. Hiermee kan de kloof tussen vast,  tijdelijk en flexibel werk enigszins geslecht worden."
       },
       {
         "name": "DENK",
@@ -1379,7 +1379,7 @@ var subjects = [{
       {
         "name": "Artikel 1",
         "position": "pro",
-        "opinion": "Deze groep mensen blijft nu deels verstoken van sociale zekerheid. Een collectieve verplichte verzekering is betaalbaarder en eerlijker dan stimuleren van verplichte privÃ©verzekeringen."
+        "opinion": "Deze groep mensen blijft nu deels verstoken van sociale zekerheid. Een collectieve verplichte verzekering is betaalbaarder en eerlijker dan stimuleren van verplichte privéverzekeringen."
       },
       {
         "name": "Lokaal in de Kamer",
@@ -1399,7 +1399,7 @@ var subjects = [{
       {
         "name": "VVD",
         "position": "contra",
-        "opinion": "Als je bewust kiest voor zelfstandigheid, moet je natuurlijk zo veel mogelijk ruimte krijgen.  Want met minimale verplichtingen heb je maximale ruimte om te ondernemen. Als ZZPâ€™er moet je daarom zelf kunnen bepalen waarvoor en hoe je je wilt verzekeren."
+        "opinion": "Als je bewust kiest voor zelfstandigheid, moet je natuurlijk zo veel mogelijk ruimte krijgen.  Want met minimale verplichtingen heb je maximale ruimte om te ondernemen. Als ZZP’er moet je daarom zelf kunnen bepalen waarvoor en hoe je je wilt verzekeren."
       },
       {
         "name": "PVV",
@@ -1419,12 +1419,12 @@ var subjects = [{
       {
         "name": "Partij voor de Dieren",
         "position": "contra",
-        "opinion": "Het wordt voor zzpâ€™ers eenvoudiger om vrijwillig te sparen voor pensioen of zich te verzekeren. Zzpâ€™ers krijgen toegang tot een publieke arbeidsongeschiktheids- en pensioenverzekering. Zoâ€™n verzekering mag echter geen verplichtend karakter hebben."
+        "opinion": "Het wordt voor zzp’ers eenvoudiger om vrijwillig te sparen voor pensioen of zich te verzekeren. Zzp’ers krijgen toegang tot een publieke arbeidsongeschiktheids- en pensioenverzekering. Zo’n verzekering mag echter geen verplichtend karakter hebben."
       },
       {
         "name": "OndernemersPartij",
         "position": "contra",
-        "opinion": "De keuze behoort bij ZZPÂ´ers zelf te liggen. De overheid zou zelf een sociaal ondervang moeten regelen voor de ZZPÂ´ers."
+        "opinion": "De keuze behoort bij ZZP´ers zelf te liggen. De overheid zou zelf een sociaal ondervang moeten regelen voor de ZZP´ers."
       },
       {
         "name": "VNL",
@@ -1439,7 +1439,7 @@ var subjects = [{
       {
         "name": "Piratenpartij",
         "position": "contra",
-        "opinion": "De Piratenpartij kiest in haar oplossingen niet snel voor dwang en drang. Bovendien speelt dit probleem vooral bij schijnzelfstandigheid, en daar wil de Piratenpartij nu juist vanaf. 'Unieke professionals' kunnen vaak prima zelf bepalen welke risico's ze willen lopen en hoeven niet betutteld te worden. De Piratenpartij wil verzekeren voor ZZP'ers wel gemakkelijker maken, en inzetten op coÃ¶peraties, om de positie van ZZP'ers te versterken. "
+        "opinion": "De Piratenpartij kiest in haar oplossingen niet snel voor dwang en drang. Bovendien speelt dit probleem vooral bij schijnzelfstandigheid, en daar wil de Piratenpartij nu juist vanaf. 'Unieke professionals' kunnen vaak prima zelf bepalen welke risico's ze willen lopen en hoeven niet betutteld te worden. De Piratenpartij wil verzekeren voor ZZP'ers wel gemakkelijker maken, en inzetten op coöperaties, om de positie van ZZP'ers te versterken. "
       },
       {
         "name": "Libertarische Partij",
@@ -1454,7 +1454,7 @@ var subjects = [{
     "parties": [{
         "name": "SP",
         "position": "pro",
-        "opinion": "Het schuldenstelsel dat vorig jaar voor studenten is ingevoerd zorgt ervoor dat jongere generaties met grote schulden hun loopbaan beginnen. Onderwijs is te belangrijk voor ons land om met financiÃ«le drempels te beperken en ontmoedigen. Wij moeten jongeren stimuleren, niet straffen, om door te leren. "
+        "opinion": "Het schuldenstelsel dat vorig jaar voor studenten is ingevoerd zorgt ervoor dat jongere generaties met grote schulden hun loopbaan beginnen. Onderwijs is te belangrijk voor ons land om met financiële drempels te beperken en ontmoedigen. Wij moeten jongeren stimuleren, niet straffen, om door te leren. "
       },
       {
         "name": "CDA",
@@ -1464,7 +1464,7 @@ var subjects = [{
       {
         "name": "ChristenUnie",
         "position": "pro",
-        "opinion": "De ChristenUnie voert de basisbeurs weer in en zet een streep door het leenstelsel. Het leenstelsel is een te hoge financiÃ«le drempel tot hoger onderwijs en leidt tot kansenongelijkheid. Het is ook onwenselijk dat jonge mensen na hun studie met grote schulden de arbeidsmarkt en woningmarkt betreden."
+        "opinion": "De ChristenUnie voert de basisbeurs weer in en zet een streep door het leenstelsel. Het leenstelsel is een te hoge financiële drempel tot hoger onderwijs en leidt tot kansenongelijkheid. Het is ook onwenselijk dat jonge mensen na hun studie met grote schulden de arbeidsmarkt en woningmarkt betreden."
       },
       {
         "name": "Partij voor de Dieren",
@@ -1494,7 +1494,7 @@ var subjects = [{
       {
         "name": "Forum voor Democratie",
         "position": "pro",
-        "opinion": "Iedereen moet kunnen studeren, ongeacht de financiÃ«le situatie van de ouders."
+        "opinion": "Iedereen moet kunnen studeren, ongeacht de financiële situatie van de ouders."
       },
       {
         "name": "De Burger Beweging",
@@ -1509,7 +1509,7 @@ var subjects = [{
       {
         "name": "Piratenpartij",
         "position": "pro",
-        "opinion": "De Piratenpartij vindt onderwijs een belangrijk burgerrecht, dat niet afhankelijk zou moeten zijn van je portemonnee. Door het leenstelsel zien steeds meer jongeren om financiÃ«le redenen af van onderwijs op het hoogste niveau."
+        "opinion": "De Piratenpartij vindt onderwijs een belangrijk burgerrecht, dat niet afhankelijk zou moeten zijn van je portemonnee. Door het leenstelsel zien steeds meer jongeren om financiële redenen af van onderwijs op het hoogste niveau."
       },
       {
         "name": "Artikel 1",
@@ -1519,7 +1519,7 @@ var subjects = [{
       {
         "name": "Lokaal in de Kamer",
         "position": "pro",
-        "opinion": "Studiekeuze wordt nu mede bepaald door financiÃ«le situatie en niet door motivatie. Studeren moet weer toegankelijk zijn alle jongeren. "
+        "opinion": "Studiekeuze wordt nu mede bepaald door financiële situatie en niet door motivatie. Studeren moet weer toegankelijk zijn alle jongeren. "
       },
       {
         "name": "VNL",
@@ -1559,7 +1559,7 @@ var subjects = [{
       {
         "name": "SGP",
         "position": "contra",
-        "opinion": "De SGP vindt dat financiÃ«le drempels geen belemmering mogen zijn voor het volgen van hoger onderwijs. Vooral de (lagere) middeninkomens zitten nu in de knel. De aanvullende beurs moet daarom uitgebreid worden."
+        "opinion": "De SGP vindt dat financiële drempels geen belemmering mogen zijn voor het volgen van hoger onderwijs. Vooral de (lagere) middeninkomens zitten nu in de knel. De aanvullende beurs moet daarom uitgebreid worden."
       },
       {
         "name": "Libertarische Partij",
@@ -1609,12 +1609,12 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "pro",
-        "opinion": "Kunst en cultuur zijn als de adem van de samenleving. Daar moet ruimte voor zijn. Zo stelt de Vrijzinnige Partij voor om huisvestingskosten voor culturele instellingen te subsidiÃ«ren en om tot 25 jaar iedereen gratis toegang te geven tot de musea en voor iedereen boven de 25 jaar een gratis museumjaarkaart."
+        "opinion": "Kunst en cultuur zijn als de adem van de samenleving. Daar moet ruimte voor zijn. Zo stelt de Vrijzinnige Partij voor om huisvestingskosten voor culturele instellingen te subsidiëren en om tot 25 jaar iedereen gratis toegang te geven tot de musea en voor iedereen boven de 25 jaar een gratis museumjaarkaart."
       },
       {
         "name": "Artikel 1",
         "position": "pro",
-        "opinion": "Kunst, cultuur en wetenschap zijn belangrijke pijlers voor een beschaafde samenleving. Zij dagen ons uit en zetten aan tot groei en cohesie. Er is de afgelopen jaren teveel gesneden in de kunst- en cultuurbudgetten. Vrij naar Churchill: â€œals we niet voor kunst en cultuur vechten, waar vechten we dan voor?\"."
+        "opinion": "Kunst, cultuur en wetenschap zijn belangrijke pijlers voor een beschaafde samenleving. Zij dagen ons uit en zetten aan tot groei en cohesie. Er is de afgelopen jaren teveel gesneden in de kunst- en cultuurbudgetten. Vrij naar Churchill: “als we niet voor kunst en cultuur vechten, waar vechten we dan voor?\"."
       },
       {
         "name": "DENK",
@@ -1629,7 +1629,7 @@ var subjects = [{
       {
         "name": "VVD",
         "position": "contra",
-        "opinion": "De rijksoverheid geeft maar liefst â‚¬800 miljoen uit aan kunst en cultuur in 2017. Dat is meer dan genoeg.  "
+        "opinion": "De rijksoverheid geeft maar liefst €800 miljoen uit aan kunst en cultuur in 2017. Dat is meer dan genoeg.  "
       },
       {
         "name": "PVV",
@@ -1759,7 +1759,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "contra",
-        "opinion": "â€˜Echteâ€™ vluchtelingen vanuit niet veilige, in oorlog verkerende landen moeten â€“ uiteraard binnen de geldende regels, randvoorwaarden en waarborgen â€“ asiel kunnen aanvragen in Nederland, ongeacht hun geloof, levensovertuiging, of geaardheid. "
+        "opinion": "‘Echte’ vluchtelingen vanuit niet veilige, in oorlog verkerende landen moeten – uiteraard binnen de geldende regels, randvoorwaarden en waarborgen – asiel kunnen aanvragen in Nederland, ongeacht hun geloof, levensovertuiging, of geaardheid. "
       },
       {
         "name": "OndernemersPartij",
@@ -1779,7 +1779,7 @@ var subjects = [{
       {
         "name": "De Burger Beweging",
         "position": "contra",
-        "opinion": "Oneens, Nederland moet stoppen met deelname aan oorlog (zogenaamde vredesmissies etc.) en creÃ«ren van vluchtelingen problemen."
+        "opinion": "Oneens, Nederland moet stoppen met deelname aan oorlog (zogenaamde vredesmissies etc.) en creëren van vluchtelingen problemen."
       },
       {
         "name": "Vrijzinnige Partij",
@@ -1819,7 +1819,7 @@ var subjects = [{
       {
         "name": "SP",
         "position": "pro",
-        "opinion": "Wij vinden dat er ruimhartig moet worden omgegaan met kinderen van asielzoekers die hier zijn opgegroeid. Zij kennen vaak geen andere samenleving dan de Nederlandse en zijn hier geÃ¯ntegreerd. Als er wel sprake is van terugkeer moet dit zorgvuldig begeleid gebeuren."
+        "opinion": "Wij vinden dat er ruimhartig moet worden omgegaan met kinderen van asielzoekers die hier zijn opgegroeid. Zij kennen vaak geen andere samenleving dan de Nederlandse en zijn hier geïntegreerd. Als er wel sprake is van terugkeer moet dit zorgvuldig begeleid gebeuren."
       },
       {
         "name": "D66",
@@ -1844,7 +1844,7 @@ var subjects = [{
       {
         "name": "DENK",
         "position": "pro",
-        "opinion": "Kinderen mogen nooit de dupe zijn van oorlogen, vreemdelingenhaat of financiÃ«le overwegingen. Kinderen verdienen een toekomst. DENK wil kinderen deze toekomst geven. "
+        "opinion": "Kinderen mogen nooit de dupe zijn van oorlogen, vreemdelingenhaat of financiële overwegingen. Kinderen verdienen een toekomst. DENK wil kinderen deze toekomst geven. "
       },
       {
         "name": "De Burger Beweging",
@@ -1869,7 +1869,7 @@ var subjects = [{
       {
         "name": "Libertarische Partij",
         "position": "pro",
-        "opinion": "Het ontwortelen van kinderen die alleen maar Nederland hebben gekend, en hier zijn geÃ¯ntegreerd, is tegenstrijdig met het belang van kinderen. Migranten dienen zich wel te houden aan de regels omtrent het verkrijgen van de Nederlanderschap die wij bepleiten. Onder andere: geen misdrijven en de eerste vijf jaar geen recht op bijstand. Wij zijn warme voorstander van particuliere, vrijwillige organisaties die zonder subsidie migranten helpen in de Nederlandse samenleving te integreren."
+        "opinion": "Het ontwortelen van kinderen die alleen maar Nederland hebben gekend, en hier zijn geïntegreerd, is tegenstrijdig met het belang van kinderen. Migranten dienen zich wel te houden aan de regels omtrent het verkrijgen van de Nederlanderschap die wij bepleiten. Onder andere: geen misdrijven en de eerste vijf jaar geen recht op bijstand. Wij zijn warme voorstander van particuliere, vrijwillige organisaties die zonder subsidie migranten helpen in de Nederlandse samenleving te integreren."
       },
       {
         "name": "Lokaal in de Kamer",
@@ -1879,7 +1879,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "none",
-        "opinion": "In zijn algemeenheid is dit wel een erg absolute stelling. VÃ³Ã³rkomende situaties zullen van geval tot geval grondig beoordeeld moeten worden, met een zorgvuldige weging van alle spelende belangen. Binnen de kaders van geldende wet- en regelgeving moet vervolgens een individuele beslissing genomen worden. Belangrijk is dat procedures zo kort mogelijk zijn, zodat men snel duidelijkheid krijgt."
+        "opinion": "In zijn algemeenheid is dit wel een erg absolute stelling. Vóórkomende situaties zullen van geval tot geval grondig beoordeeld moeten worden, met een zorgvuldige weging van alle spelende belangen. Binnen de kaders van geldende wet- en regelgeving moet vervolgens een individuele beslissing genomen worden. Belangrijk is dat procedures zo kort mogelijk zijn, zodat men snel duidelijkheid krijgt."
       },
       {
         "name": "Niet Stemmers",
@@ -1954,7 +1954,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "pro",
-        "opinion": "Asielbeleid is rijksbeleid. Als vreemdelingen volgens de geldende regels niet (meer) in ons land mogen verblijven mogen gemeenten dit beleid niet doorkruisen, door zogenaamde â€˜illegale vreemdelingenâ€™ die volgens de regels geen recht (meer) hebben op verblijf,  onderdak te bieden. "
+        "opinion": "Asielbeleid is rijksbeleid. Als vreemdelingen volgens de geldende regels niet (meer) in ons land mogen verblijven mogen gemeenten dit beleid niet doorkruisen, door zogenaamde ‘illegale vreemdelingen’ die volgens de regels geen recht (meer) hebben op verblijf,  onderdak te bieden. "
       },
       {
         "name": "OndernemersPartij",
@@ -2099,7 +2099,7 @@ var subjects = [{
       {
         "name": "Forum voor Democratie",
         "position": "pro",
-        "opinion": "Forum voor Democratie wil voor iedereen een belastingvrije voet van â‚¬20.000 invoeren en een tweetaks van 20% en 35%. Zo lang dit niet is gerealiseerd blijft de aftrek van de hypotheekrente ongewijzigd in stand.\r\n"
+        "opinion": "Forum voor Democratie wil voor iedereen een belastingvrije voet van €20.000 invoeren en een tweetaks van 20% en 35%. Zo lang dit niet is gerealiseerd blijft de aftrek van de hypotheekrente ongewijzigd in stand.\r\n"
       },
       {
         "name": "Artikel 1",
@@ -2124,7 +2124,7 @@ var subjects = [{
       {
         "name": "D66",
         "position": "contra",
-        "opinion": "D66 wil de belasting op werken fors verlagen. Tegelijkertijd brengen we de hypotheekrenteaftrek stapsgewijs verder omlaag. Per saldo gaan huizenbezitters er op vooruit. Omdat de rente laag is, is dit hÃ©t moment om onze schulden aan te pakken. Bovendien worden koop en huur hierdoor gelijker behandeld."
+        "opinion": "D66 wil de belasting op werken fors verlagen. Tegelijkertijd brengen we de hypotheekrenteaftrek stapsgewijs verder omlaag. Per saldo gaan huizenbezitters er op vooruit. Omdat de rente laag is, is dit hét moment om onze schulden aan te pakken. Bovendien worden koop en huur hierdoor gelijker behandeld."
       },
       {
         "name": "ChristenUnie",
@@ -2159,7 +2159,7 @@ var subjects = [{
       {
         "name": "Piratenpartij",
         "position": "contra",
-        "opinion": "De hypotheekrenteaftrek (HRA) heeft kunstmatig de huizenprijzen verhoogd. Door dit financiÃ«le voordeel voor huiseigenaren, konden huizenkopers een duurder huis kopen, en steeg als gevolg de huizenprijs. De Piratenpartij is voor het afbouwen van HRA, te beginnen door deze af te toppen bij huizenprijzen van 1 miljoen of meer, en dit plafond geleidelijk te verlagen (dus bij een huis van â‚¬1.500.000,- is de HRA bijvoorbeeld tot â‚¬1.000.000,- aftrekbaar)."
+        "opinion": "De hypotheekrenteaftrek (HRA) heeft kunstmatig de huizenprijzen verhoogd. Door dit financiële voordeel voor huiseigenaren, konden huizenkopers een duurder huis kopen, en steeg als gevolg de huizenprijs. De Piratenpartij is voor het afbouwen van HRA, te beginnen door deze af te toppen bij huizenprijzen van 1 miljoen of meer, en dit plafond geleidelijk te verlagen (dus bij een huis van €1.500.000,- is de HRA bijvoorbeeld tot €1.000.000,- aftrekbaar)."
       },
       {
         "name": "Libertarische Partij",
@@ -2259,7 +2259,7 @@ var subjects = [{
       {
         "name": "Lokaal in de Kamer",
         "position": "pro",
-        "opinion": "Het geld van de verhuurdersheffing moet worden geÃ¯nvesteerd in sociale woningbouw om de woningnood in die groep op te lossen. "
+        "opinion": "Het geld van de verhuurdersheffing moet worden geïnvesteerd in sociale woningbouw om de woningnood in die groep op te lossen. "
       },
       {
         "name": "CDA",
@@ -2319,7 +2319,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "pro",
-        "opinion": "Luchthaven Schiphol is een belangrijke factor in de Nederlandse economie. Rekening houdend met geldende milieuregels en omwonenden moet Schiphol kunnen blijven uitbreiden. Lelystad kan een â€˜overloopâ€™ vormen voor de luchthaven Schiphol. Wat 50PLUS betreft moet Schiphol koploper worden in het terugdringen van emissies."
+        "opinion": "Luchthaven Schiphol is een belangrijke factor in de Nederlandse economie. Rekening houdend met geldende milieuregels en omwonenden moet Schiphol kunnen blijven uitbreiden. Lelystad kan een ‘overloop’ vormen voor de luchthaven Schiphol. Wat 50PLUS betreft moet Schiphol koploper worden in het terugdringen van emissies."
       },
       {
         "name": "OndernemersPartij",
@@ -2334,7 +2334,7 @@ var subjects = [{
       {
         "name": "Forum voor Democratie",
         "position": "pro",
-        "opinion": "Forum voor Democratie wil op termijn een nieuwe luchthaven in zee aanleggen. Dit ontlast op termijn Schiphol, creÃ«ert extra werkgelegenheid en kan ook helpen bij het terugdringen van de geluidsoverlast rondom Schiphol en is goed voor de Nederlandse economie. In de tussentijd moet Schiphol verder kunnen groeien."
+        "opinion": "Forum voor Democratie wil op termijn een nieuwe luchthaven in zee aanleggen. Dit ontlast op termijn Schiphol, creëert extra werkgelegenheid en kan ook helpen bij het terugdringen van de geluidsoverlast rondom Schiphol en is goed voor de Nederlandse economie. In de tussentijd moet Schiphol verder kunnen groeien."
       },
       {
         "name": "Piratenpartij",
@@ -2379,7 +2379,7 @@ var subjects = [{
       {
         "name": "GroenLinks",
         "position": "contra",
-        "opinion": "De uitbreiding van Schiphol is slecht voor het klimaat en voor de gezondheid en rust van mensen die in buurt van Schiphol wonen. In plaats daarvan wil GroenLinks snellere treinverbindingen met Duitsland en BelgiÃ«. Verdere groei van Schiphol is daarom niet nodig."
+        "opinion": "De uitbreiding van Schiphol is slecht voor het klimaat en voor de gezondheid en rust van mensen die in buurt van Schiphol wonen. In plaats daarvan wil GroenLinks snellere treinverbindingen met Duitsland en België. Verdere groei van Schiphol is daarom niet nodig."
       },
       {
         "name": "SGP",
@@ -2404,7 +2404,7 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "contra",
-        "opinion": "Grenzen aan groei betekent ook denken aan een betere leefomgeving voor de regio rond Schiphol. Uitbreiden gaat alleen maar uit van expansie van de luchtvaart. Grenzen aan de groei van Schiphol betekent daarom innovatie voor nieuwe mogelijkheden zoals efficiÃ«ntere vliegtuigen, hogesnelheidstreinen en verspreide regionale luchthavens."
+        "opinion": "Grenzen aan groei betekent ook denken aan een betere leefomgeving voor de regio rond Schiphol. Uitbreiden gaat alleen maar uit van expansie van de luchtvaart. Grenzen aan de groei van Schiphol betekent daarom innovatie voor nieuwe mogelijkheden zoals efficiëntere vliegtuigen, hogesnelheidstreinen en verspreide regionale luchthavens."
       }
     ]
   },
@@ -2444,7 +2444,7 @@ var subjects = [{
       {
         "name": "Partij voor de Dieren",
         "position": "pro",
-        "opinion": "Automobilisten die weinig kilometers of buiten de spits rijden gaan minder belasting betalen dan mensen die veel autokilometers maken. Een uitzondering voor de kilometerbeprijzing geldt voor mensen die in dunbevolkte gebieden wonen. Daar wordt fors geÃ¯nvesteerd in beter openbaar vervoer. De beprijzing gaat gepaard met strikte privacywaarborgen."
+        "opinion": "Automobilisten die weinig kilometers of buiten de spits rijden gaan minder belasting betalen dan mensen die veel autokilometers maken. Een uitzondering voor de kilometerbeprijzing geldt voor mensen die in dunbevolkte gebieden wonen. Daar wordt fors geïnvesteerd in beter openbaar vervoer. De beprijzing gaat gepaard met strikte privacywaarborgen."
       },
       {
         "name": "OndernemersPartij",
@@ -2484,7 +2484,7 @@ var subjects = [{
       {
         "name": "Lokaal in de Kamer",
         "position": "pro",
-        "opinion": "Volgens het principe â€œde vervuiler betaaltâ€. Per kilometer belasten stimuleert andere vormen van vervoer dan de auto. "
+        "opinion": "Volgens het principe “de vervuiler betaalt”. Per kilometer belasten stimuleert andere vormen van vervoer dan de auto. "
       },
       {
         "name": "VNL",
@@ -2609,7 +2609,7 @@ var subjects = [{
       {
         "name": "GroenLinks",
         "position": "contra",
-        "opinion": "Nederland is een prachtig land. Daarom wil GroenLinks geen nieuwe wegen die ons land nog verder versnipperen en de lucht vervuilen. Meer asfalt leidt tot mÃ©Ã©r verkeer en mÃ©Ã©r files. De enorme bedragen die zijn gereserveerd voor wegen willen we investeren in een beter en sneller openbaar vervoer."
+        "opinion": "Nederland is een prachtig land. Daarom wil GroenLinks geen nieuwe wegen die ons land nog verder versnipperen en de lucht vervuilen. Meer asfalt leidt tot méér verkeer en méér files. De enorme bedragen die zijn gereserveerd voor wegen willen we investeren in een beter en sneller openbaar vervoer."
       },
       {
         "name": "Partij voor de Dieren",
@@ -2634,12 +2634,12 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "contra",
-        "opinion": "Nederland kent een uitstekend wegennet waarvoor geldt dat nieuwe wegen om nieuwe verbindingen te maken bijna niet nodig zijn. Verdere aantasting van onze leefomgeving moet daarom een halt worden toegeroepen.Wel kan geÃ¯nvesteerd moeten worden in de bestaande wegen om de capaciteit goed te houden en files te voorkomen. Belangrijk uitgangspunt is daarbij geen aantasting van landschap plaatsvindt. Dus tegen verbreding A27 Lunetten, tegen Blankenburgtunnel"
+        "opinion": "Nederland kent een uitstekend wegennet waarvoor geldt dat nieuwe wegen om nieuwe verbindingen te maken bijna niet nodig zijn. Verdere aantasting van onze leefomgeving moet daarom een halt worden toegeroepen.Wel kan geïnvesteerd moeten worden in de bestaande wegen om de capaciteit goed te houden en files te voorkomen. Belangrijk uitgangspunt is daarbij geen aantasting van landschap plaatsvindt. Dus tegen verbreding A27 Lunetten, tegen Blankenburgtunnel"
       },
       {
         "name": "Piratenpartij",
         "position": "contra",
-        "opinion": "Het gebruik van zelfrijdende auto's zal de komende tien jaar flink toenemen. Zelfrijdende auto's zullen in 'treintjes' gaan rijden, waardoor er in de toekomst veel meer autoâ€™s op hetzelfde wegdek passen. De Piratenpartij kijkt vooruit en anticipeert hierop door minder nieuwe snelwegen aan te leggen. Wegen verbreden we alleen, als dit op korte termijn al de investering rechtvaardigt of andere voordelen biedt. (We investeren liever in goed OV.)"
+        "opinion": "Het gebruik van zelfrijdende auto's zal de komende tien jaar flink toenemen. Zelfrijdende auto's zullen in 'treintjes' gaan rijden, waardoor er in de toekomst veel meer auto’s op hetzelfde wegdek passen. De Piratenpartij kijkt vooruit en anticipeert hierop door minder nieuwe snelwegen aan te leggen. Wegen verbreden we alleen, als dit op korte termijn al de investering rechtvaardigt of andere voordelen biedt. (We investeren liever in goed OV.)"
       },
       {
         "name": "Artikel 1",
@@ -2684,7 +2684,7 @@ var subjects = [{
       {
         "name": "CDA",
         "position": "none",
-        "opinion": "Het CDA wil een energiemarkt waarin de uitstoot van CO2 wordt beperkt. In zoâ€™n energiemarkt worden kolencentrales meer belast dan gascentrales. Daarvoor zet het CDA zich in Nederland Ã©n in Europa in. Kolencentrales zullen daarvoor uiteindelijk moeten sluiten, sommige oudere centrales eerder en nieuwere later."
+        "opinion": "Het CDA wil een energiemarkt waarin de uitstoot van CO2 wordt beperkt. In zo’n energiemarkt worden kolencentrales meer belast dan gascentrales. Daarvoor zet het CDA zich in Nederland én in Europa in. Kolencentrales zullen daarvoor uiteindelijk moeten sluiten, sommige oudere centrales eerder en nieuwere later."
       },
       {
         "name": "Niet Stemmers",
@@ -2704,12 +2704,12 @@ var subjects = [{
       {
         "name": "D66",
         "position": "contra",
-        "opinion": "Vieze energie van kolen is, alle kosten voor klimaat en maatschappij meegerekend, veel duurder dan schone energie. D66 wil daarom alle kolencentrales in Nederland zo snel mogelijk, maar uiterlijk in 2025, op verantwoorde wijze sluiten â€“ beginnend bij de meest vervuilende."
+        "opinion": "Vieze energie van kolen is, alle kosten voor klimaat en maatschappij meegerekend, veel duurder dan schone energie. D66 wil daarom alle kolencentrales in Nederland zo snel mogelijk, maar uiterlijk in 2025, op verantwoorde wijze sluiten – beginnend bij de meest vervuilende."
       },
       {
         "name": "ChristenUnie",
         "position": "contra",
-        "opinion": "De ChristenUnie zet in op een snelle en volledige energietransitie binnen Ã©Ã©n generatie. We willen snel af van de kolencentrales. Daarom komen er hogere milieunormen voor energiecentrales en stoppen we met subsidie voor biomassabijstook. Hierdoor zullen kolencentrales moeten sluiten."
+        "opinion": "De ChristenUnie zet in op een snelle en volledige energietransitie binnen één generatie. We willen snel af van de kolencentrales. Daarom komen er hogere milieunormen voor energiecentrales en stoppen we met subsidie voor biomassabijstook. Hierdoor zullen kolencentrales moeten sluiten."
       },
       {
         "name": "GroenLinks",
@@ -2774,12 +2774,12 @@ var subjects = [{
     "parties": [{
         "name": "GroenLinks",
         "position": "pro",
-        "opinion": "Te veel vlees in Nederland is afkomstig uit de bio-industrie. Dit zorgt voor veel dierenleed, draagt bij aan de ontwrichting van ons klimaat en vervuilt de natuur. GroenLinks vindt daarom dat voor vlees het hoge btw-tarief moet gelden. Met Ã©Ã©n vleesloze dag in de week kan je al het verschil maken"
+        "opinion": "Te veel vlees in Nederland is afkomstig uit de bio-industrie. Dit zorgt voor veel dierenleed, draagt bij aan de ontwrichting van ons klimaat en vervuilt de natuur. GroenLinks vindt daarom dat voor vlees het hoge btw-tarief moet gelden. Met één vleesloze dag in de week kan je al het verschil maken"
       },
       {
         "name": "Partij voor de Dieren",
         "position": "pro",
-        "opinion": "Vleesproductie stoot wereldwijd 40% meer broeikasgassen uit dan Ã¡l het verkeer en vervoer bij elkaar.\r\nWe maken onduurzame producten zoals dierlijke producten duurder en duurzame producten goedkoper. (Biologische) groente en fruit worden vrij van btw. De belasting op arbeid gaat fors omlaag. Zo wordt mogelijk dat we duurzaam kunnen consumeren."
+        "opinion": "Vleesproductie stoot wereldwijd 40% meer broeikasgassen uit dan ál het verkeer en vervoer bij elkaar.\r\nWe maken onduurzame producten zoals dierlijke producten duurder en duurzame producten goedkoper. (Biologische) groente en fruit worden vrij van btw. De belasting op arbeid gaat fors omlaag. Zo wordt mogelijk dat we duurzaam kunnen consumeren."
       },
       {
         "name": "De Burger Beweging",
@@ -2829,7 +2829,7 @@ var subjects = [{
       {
         "name": "ChristenUnie",
         "position": "contra",
-        "opinion": "Voor voedsel blijft wat betreft de ChristenUnie het lage btw-tarief van 6% gelden, dus ook voor vlees. Boeren en tuinders verdienen een eerlijke prijs voor hun producten. Er komt, evenals in BelgiÃ« en Duitsland, een verbod op verkoop van voedsel onder de kostprijs."
+        "opinion": "Voor voedsel blijft wat betreft de ChristenUnie het lage btw-tarief van 6% gelden, dus ook voor vlees. Boeren en tuinders verdienen een eerlijke prijs voor hun producten. Er komt, evenals in België en Duitsland, een verbod op verkoop van voedsel onder de kostprijs."
       },
       {
         "name": "SGP",
@@ -2854,7 +2854,7 @@ var subjects = [{
       {
         "name": "DENK",
         "position": "contra",
-        "opinion": "DENK wil de rekening van de bio-industrie niet leggen bij de consument, maar bij de bio-industrie. Wij willen meer voorlichting over vlees en meer aandacht voor voeding in het onderwijs, in plaats van het verhogen van de belasting op essentiÃ«le levensbehoeften. "
+        "opinion": "DENK wil de rekening van de bio-industrie niet leggen bij de consument, maar bij de bio-industrie. Wij willen meer voorlichting over vlees en meer aandacht voor voeding in het onderwijs, in plaats van het verhogen van de belasting op essentiële levensbehoeften. "
       },
       {
         "name": "Nieuwe Wegen",
@@ -2914,7 +2914,7 @@ var subjects = [{
       {
         "name": "Partij voor de Dieren",
         "position": "pro",
-        "opinion": "Mensen beschikken over hun eigen leven, ook als het gaat om een stervenswens. We hebben daarentegen de verantwoordelijkheid om te voorkÃ³men dat mensen zichzelf als last voor anderen beschouwen of zich niet meer welkom voelen. Herwaardering van ouderdom en voorkÃ³men van eenzaamheid verdient de aandacht. Een breed maatschappelijk debat is nodig."
+        "opinion": "Mensen beschikken over hun eigen leven, ook als het gaat om een stervenswens. We hebben daarentegen de verantwoordelijkheid om te voorkómen dat mensen zichzelf als last voor anderen beschouwen of zich niet meer welkom voelen. Herwaardering van ouderdom en voorkómen van eenzaamheid verdient de aandacht. Een breed maatschappelijk debat is nodig."
       },
       {
         "name": "50Plus",
@@ -2929,7 +2929,7 @@ var subjects = [{
       {
         "name": "VNL",
         "position": "pro",
-        "opinion": "Het individu staat bij ons voorop. Mensen die vinden dat hun leven is voltooid moeten hulp kunnen krijgen. Uiteraard moet er een duidelijk wettelijk kader worden gecreÃ«erd. "
+        "opinion": "Het individu staat bij ons voorop. Mensen die vinden dat hun leven is voltooid moeten hulp kunnen krijgen. Uiteraard moet er een duidelijk wettelijk kader worden gecreëerd. "
       },
       {
         "name": "Nieuwe Wegen",
@@ -2939,7 +2939,7 @@ var subjects = [{
       {
         "name": "Forum voor Democratie",
         "position": "pro",
-        "opinion": "Gezien de hogere levensverwachting, de toenemende eenzaamheid van ouderen en de problemen van langdurig zieke mensen, moeten ouderen die hun leven voltooid achten, recht krijgen op hulp bij het waardig beÃ«indigen van hun leven. Naast de al bestaande euthanasiewetgeving kunnen ouderen zonder overheidsbemoeienis zelf beschikken over hun levenseinde."
+        "opinion": "Gezien de hogere levensverwachting, de toenemende eenzaamheid van ouderen en de problemen van langdurig zieke mensen, moeten ouderen die hun leven voltooid achten, recht krijgen op hulp bij het waardig beëindigen van hun leven. Naast de al bestaande euthanasiewetgeving kunnen ouderen zonder overheidsbemoeienis zelf beschikken over hun levenseinde."
       },
       {
         "name": "De Burger Beweging",
@@ -2949,17 +2949,17 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "pro",
-        "opinion": "Mensen zijn vrij en moeten ook vrij zijn om zelf te kunnen beslissen over hun lichaam en leven. Zelf kunnen beschikken over het lichaam betekent zelf over de orgaandonatie beslissen (nee,tenzij) en niet de overheid. Zelf kunnen beschikken over het eigen leven betekent zelf het einde bepalen. Om misbruik, angst voor misbruik en verlies van waardigheid tegen te gaan is hulp wettelijk vereist om zorgvuldige levensbeÃ«indiging mogelijk te maken."
+        "opinion": "Mensen zijn vrij en moeten ook vrij zijn om zelf te kunnen beslissen over hun lichaam en leven. Zelf kunnen beschikken over het lichaam betekent zelf over de orgaandonatie beslissen (nee,tenzij) en niet de overheid. Zelf kunnen beschikken over het eigen leven betekent zelf het einde bepalen. Om misbruik, angst voor misbruik en verlies van waardigheid tegen te gaan is hulp wettelijk vereist om zorgvuldige levensbeëindiging mogelijk te maken."
       },
       {
         "name": "Piratenpartij",
         "position": "pro",
-        "opinion": "Het recht op zelfbeschikking vindt de Piratenpartij heel belangrijk, en als iemand echt dood wil, dan is dat zijn of haar keuze. Maar vÃ³Ã³rdat je als samenleving daarbij gaat helpen, moet je wÃ©l eerst je uiterste best hebben gedaan om het voor iedereen menswaardig en zinvol te laten zijn. Dit is niet afhankelijk van een leeftijd. "
+        "opinion": "Het recht op zelfbeschikking vindt de Piratenpartij heel belangrijk, en als iemand echt dood wil, dan is dat zijn of haar keuze. Maar vóórdat je als samenleving daarbij gaat helpen, moet je wél eerst je uiterste best hebben gedaan om het voor iedereen menswaardig en zinvol te laten zijn. Dit is niet afhankelijk van een leeftijd. "
       },
       {
         "name": "Libertarische Partij",
         "position": "pro",
-        "opinion": "Iedereen die wilsbekwaam is moet zelf kunnen beslissen over zijn of haar eigen lot. Er dienen wel procedures opgesteld te worden zodat vrijwillige levensbeÃ«indiging in goede banen wordt geleid. Er mag *nooit* sprake zijn van enige (maatschappelijke) dwang in deze kwestie."
+        "opinion": "Iedereen die wilsbekwaam is moet zelf kunnen beslissen over zijn of haar eigen lot. Er dienen wel procedures opgesteld te worden zodat vrijwillige levensbeëindiging in goede banen wordt geleid. Er mag *nooit* sprake zijn van enige (maatschappelijke) dwang in deze kwestie."
       },
       {
         "name": "Lokaal in de Kamer",
@@ -2974,7 +2974,7 @@ var subjects = [{
       {
         "name": "Artikel 1",
         "position": "none",
-        "opinion": "We willen de keuzevrijheid van het individu zo min mogelijk aantasten. Tegelijkertijd blijft het lastig om van de overheid te vragen om bij te dragen aan de wens om vrijwillige levensbeÃ«indiging bij voltooid leven."
+        "opinion": "We willen de keuzevrijheid van het individu zo min mogelijk aantasten. Tegelijkertijd blijft het lastig om van de overheid te vragen om bij te dragen aan de wens om vrijwillige levensbeëindiging bij voltooid leven."
       },
       {
         "name": "Niet Stemmers",
@@ -2989,22 +2989,22 @@ var subjects = [{
       {
         "name": "CDA",
         "position": "contra",
-        "opinion": "Het CDA deelt de conclusie van een recent onderzoek van een commissie van wijzen dat de huidige euthanasiewetgeving voldoende ruimte biedt voor een waardig levenseinde. Verruiming van de euthanasiewetgeving brengt juist risicoâ€™s met zich mee. Zo kunnen oude mensen druk gaan voelen om hun leven te beÃ«indigen, als ze afhankelijk worden. Wat het CDA betreft zou het debat moeten gaan over de waardevolle bijdrage die ouderen aan de samenleving leveren, en dient de overheid het leven te beschermen."
+        "opinion": "Het CDA deelt de conclusie van een recent onderzoek van een commissie van wijzen dat de huidige euthanasiewetgeving voldoende ruimte biedt voor een waardig levenseinde. Verruiming van de euthanasiewetgeving brengt juist risico’s met zich mee. Zo kunnen oude mensen druk gaan voelen om hun leven te beëindigen, als ze afhankelijk worden. Wat het CDA betreft zou het debat moeten gaan over de waardevolle bijdrage die ouderen aan de samenleving leveren, en dient de overheid het leven te beschermen."
       },
       {
         "name": "ChristenUnie",
         "position": "contra",
-        "opinion": "De ChristenUnie is fel tegen de plannen voor â€˜voltooid levenâ€™. Wij willen een samenleving waarin we omzien naar elkaar. Voor ons is elk leven beschermwaardig. We geloven in de kracht van goede zorg en aandacht voor ouderen, daar maken we werk van: www.waardigouderworden.nl "
+        "opinion": "De ChristenUnie is fel tegen de plannen voor ‘voltooid leven’. Wij willen een samenleving waarin we omzien naar elkaar. Voor ons is elk leven beschermwaardig. We geloven in de kracht van goede zorg en aandacht voor ouderen, daar maken we werk van: www.waardigouderworden.nl "
       },
       {
         "name": "SGP",
         "position": "contra",
-        "opinion": "De SGP is tegen de plannen om de deur te openen voor hulp bij zelfdoding voor mensen die lijden 'aan het leven zelfâ€™. Het is de overtuiging van de SGP dat het leven van ieder mens als schepsel van God waardevol en kostbaar is. Ook wie dit christelijk uitgangspunt niet deelt, kan grote bezwaren inbrengen tegen de weg die het kabinet nu wil inslaan. Als het leven moeilijk wordt, moeten we medemensen niet prijsgeven aan de dood, maar met aandacht, liefde en goede zorg nabij zijn.\r\n"
+        "opinion": "De SGP is tegen de plannen om de deur te openen voor hulp bij zelfdoding voor mensen die lijden 'aan het leven zelf’. Het is de overtuiging van de SGP dat het leven van ieder mens als schepsel van God waardevol en kostbaar is. Ook wie dit christelijk uitgangspunt niet deelt, kan grote bezwaren inbrengen tegen de weg die het kabinet nu wil inslaan. Als het leven moeilijk wordt, moeten we medemensen niet prijsgeven aan de dood, maar met aandacht, liefde en goede zorg nabij zijn.\r\n"
       },
       {
         "name": "DENK",
         "position": "contra",
-        "opinion": "In plaats van mensen de ruimte te geven om hun leven te beÃ«indigen, wil DENK voorkomen dat mensen het gevoel hebben niet meer te willen leven. Daarom wil DENK stevig inzetten op het verbeteren van de ouderenzorg en een uitgebreid actieplan uitrollen om eenzaamheid te voorkomen.  "
+        "opinion": "In plaats van mensen de ruimte te geven om hun leven te beëindigen, wil DENK voorkomen dat mensen het gevoel hebben niet meer te willen leven. Daarom wil DENK stevig inzetten op het verbeteren van de ouderenzorg en een uitgebreid actieplan uitrollen om eenzaamheid te voorkomen.  "
       }
     ]
   },
@@ -3054,7 +3054,7 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "pro",
-        "opinion": "Het eigen risico gaat van het onjuiste idee uit dat mensen een beroep op zorg vrijwillig doen. Een zorgvraag ontstaat altijd omdat er iets met eigen gezondheid aan de hand is. Vrijzinnige Partij gaat uit van vrije positieve mensen die goed voor hun gezondheid zorgen en als er een ongeluk is dat zij dan niet ook nog financieel gestraft worden. Voor chronisch patiÃ«nten is het nog oneerlijker: zij kunnen nooit het eigen risico beÃ¯nvloeden. Hogere premies compenseert de VP door het basisinkomen."
+        "opinion": "Het eigen risico gaat van het onjuiste idee uit dat mensen een beroep op zorg vrijwillig doen. Een zorgvraag ontstaat altijd omdat er iets met eigen gezondheid aan de hand is. Vrijzinnige Partij gaat uit van vrije positieve mensen die goed voor hun gezondheid zorgen en als er een ongeluk is dat zij dan niet ook nog financieel gestraft worden. Voor chronisch patiënten is het nog oneerlijker: zij kunnen nooit het eigen risico beïnvloeden. Hogere premies compenseert de VP door het basisinkomen."
       },
       {
         "name": "Piratenpartij",
@@ -3064,7 +3064,7 @@ var subjects = [{
       {
         "name": "Libertarische Partij",
         "position": "pro",
-        "opinion": "Het VERPLICHTE eigen risico moet worden afgeschaft. Afschaffing ervan verhoogt de premies met â‚¬284. Dit is nog altijd â‚¬101 minder dan het verplichte eigen risico. Hiernaast moet een vrijwillige eigen risico blijven bestaan.\r\n"
+        "opinion": "Het VERPLICHTE eigen risico moet worden afgeschaft. Afschaffing ervan verhoogt de premies met €284. Dit is nog altijd €101 minder dan het verplichte eigen risico. Hiernaast moet een vrijwillige eigen risico blijven bestaan.\r\n"
       },
       {
         "name": "Lokaal in de Kamer",
@@ -3094,12 +3094,12 @@ var subjects = [{
       {
         "name": "CDA",
         "position": "contra",
-        "opinion": "Het CDA wil een forse verlaging van het eigen risico in de zorg, omdat we zien dat het huidige bedrag van 385 euro voor veel mensen, in het bijzonder chronisch zieken, ouderen en mensen met een beperking, teveel geld is. Een forse verlaging van het eigen risico maakt dat de lasten voor de zorg eerlijker worden verdeeld. Het eigen risico volledig afschaffen heeft echter niet onze voorkeur, omdat het eigen risico â€“ mits fors lager -  een goed instrument blijft om de kosten in de hand te houden."
+        "opinion": "Het CDA wil een forse verlaging van het eigen risico in de zorg, omdat we zien dat het huidige bedrag van 385 euro voor veel mensen, in het bijzonder chronisch zieken, ouderen en mensen met een beperking, teveel geld is. Een forse verlaging van het eigen risico maakt dat de lasten voor de zorg eerlijker worden verdeeld. Het eigen risico volledig afschaffen heeft echter niet onze voorkeur, omdat het eigen risico – mits fors lager -  een goed instrument blijft om de kosten in de hand te houden."
       },
       {
         "name": "D66",
         "position": "contra",
-        "opinion": "Het eigen risico levert een belangrijke bijdrage aan de (hoge) zorgkosten. Afschaffen betekent dat premies met minimaal â‚¬284,- per jaar omhoog gaan. D66 wil liever diegene die de kosten lastig op kunnen brengen, bv. minima en/of chronisch zieken, tegemoetkomen via toeslagen."
+        "opinion": "Het eigen risico levert een belangrijke bijdrage aan de (hoge) zorgkosten. Afschaffen betekent dat premies met minimaal €284,- per jaar omhoog gaan. D66 wil liever diegene die de kosten lastig op kunnen brengen, bv. minima en/of chronisch zieken, tegemoetkomen via toeslagen."
       },
       {
         "name": "ChristenUnie",
@@ -3134,12 +3134,12 @@ var subjects = [{
     "parties": [{
         "name": "SP",
         "position": "pro",
-        "opinion": "Het Nationaal Zorgfonds is een initiatief van de SP. Door tot 1 collectief basispakket te komen kunnen we zorgverzekeraars buitenspel zetten en daarmee een einde maken aan hun miljardenwinsten. Met het Nationaal Zorgfonds wordt de zorg betaalbaarder, efficiÃ«nter en eerlijker, en krijgen mensen eindelijk weer zeggenschap over de gezondheidszorg."
+        "opinion": "Het Nationaal Zorgfonds is een initiatief van de SP. Door tot 1 collectief basispakket te komen kunnen we zorgverzekeraars buitenspel zetten en daarmee een einde maken aan hun miljardenwinsten. Met het Nationaal Zorgfonds wordt de zorg betaalbaarder, efficiënter en eerlijker, en krijgen mensen eindelijk weer zeggenschap over de gezondheidszorg."
       },
       {
         "name": "Partij voor de Dieren",
         "position": "pro",
-        "opinion": "Er komt een einde aan de marktwerking in de zorg. De patiÃ«nt staat centraal, niet de winsten van zorgverzekeraars en farmaceutische industrie. Er komt een Nationaal Zorgfonds, dat zorg toegankelijk maakt voor iedereen. De zorgkosten gaan omlaag door o.a.  inzet op preventie &amp; aanpak bureaucratie. Professionals op de werkvloer moeten weer de regie krijgen."
+        "opinion": "Er komt een einde aan de marktwerking in de zorg. De patiënt staat centraal, niet de winsten van zorgverzekeraars en farmaceutische industrie. Er komt een Nationaal Zorgfonds, dat zorg toegankelijk maakt voor iedereen. De zorgkosten gaan omlaag door o.a.  inzet op preventie &amp; aanpak bureaucratie. Professionals op de werkvloer moeten weer de regie krijgen."
       },
       {
         "name": "50Plus",
@@ -3154,7 +3154,7 @@ var subjects = [{
       {
         "name": "Piratenpartij",
         "position": "pro",
-        "opinion": "De huidige illusie van marktwerking in de zorg heeft er toe geleid dat de zorg stukken duurder is geworden. De bureaucratie is toegenomen en er zijn perverse prikkels ontstaan om meer zorg te leveren (of eigenlijk declareren) dan strikt noodzakelijk. Een Nationaal Zorgfonds zorgt ervoor dat zorggeld ook echt aan zorg wordt besteed. De Piratenpartij wil door regiobudgettering dit fonds decentraal inrichten. Momenteel wordt hier in het buitenland al succesvol mee geÃ«xperimenteerd. "
+        "opinion": "De huidige illusie van marktwerking in de zorg heeft er toe geleid dat de zorg stukken duurder is geworden. De bureaucratie is toegenomen en er zijn perverse prikkels ontstaan om meer zorg te leveren (of eigenlijk declareren) dan strikt noodzakelijk. Een Nationaal Zorgfonds zorgt ervoor dat zorggeld ook echt aan zorg wordt besteed. De Piratenpartij wil door regiobudgettering dit fonds decentraal inrichten. Momenteel wordt hier in het buitenland al succesvol mee geëxperimenteerd. "
       },
       {
         "name": "Artikel 1",
@@ -3214,12 +3214,12 @@ var subjects = [{
       {
         "name": "D66",
         "position": "contra",
-        "opinion": "Een landelijk zorgfonds betekent terug naar het ziekenfonds: tweedeling, wachtlijsten, geen partijen die elkaar in balans houden. D66 investeert liever in de kwaliteit van de zorg en in innovatie. Zo stimuleren we dat zorgaanbieders, patiÃ«nten en verzekeraars samen de beste zorg leveren."
+        "opinion": "Een landelijk zorgfonds betekent terug naar het ziekenfonds: tweedeling, wachtlijsten, geen partijen die elkaar in balans houden. D66 investeert liever in de kwaliteit van de zorg en in innovatie. Zo stimuleren we dat zorgaanbieders, patiënten en verzekeraars samen de beste zorg leveren."
       },
       {
         "name": "ChristenUnie",
         "position": "contra",
-        "opinion": "De ChristenUnie wil minder marktwerking en meer zeggenschap. Er komt een maximale omvang voor zorgverzekeraars, met invloed van sterke ledenraden op het beleid. Zo kunnen zorgverzekeraars echt als coÃ¶peratie functioneren. Om verkeerde prikkels te vermijden moeten medisch specialisten in loondienst."
+        "opinion": "De ChristenUnie wil minder marktwerking en meer zeggenschap. Er komt een maximale omvang voor zorgverzekeraars, met invloed van sterke ledenraden op het beleid. Zo kunnen zorgverzekeraars echt als coöperatie functioneren. Om verkeerde prikkels te vermijden moeten medisch specialisten in loondienst."
       },
       {
         "name": "SGP",
@@ -3229,12 +3229,12 @@ var subjects = [{
       {
         "name": "OndernemersPartij",
         "position": "contra",
-        "opinion": "De OP is tegen een Landelijk Zorgfonds en het opheffen van zorgverzekeraars. De OP vindt dat de overheid een basisverzekering moet gaan aanbieden tegen eerlijke en transparante tarieven. Burgers maken zelf de keus of ze zich hierbij aansluiten. Op deze manier gaat de overheid concurreren met commerciÃ«le verzekeraars en krijgt ze weer grip op tarieven en overige zorgkosten. Op deze manier zal de markt meer in balans komen en krijgen zorgverzekeraars en farmaceuten minder macht."
+        "opinion": "De OP is tegen een Landelijk Zorgfonds en het opheffen van zorgverzekeraars. De OP vindt dat de overheid een basisverzekering moet gaan aanbieden tegen eerlijke en transparante tarieven. Burgers maken zelf de keus of ze zich hierbij aansluiten. Op deze manier gaat de overheid concurreren met commerciële verzekeraars en krijgt ze weer grip op tarieven en overige zorgkosten. Op deze manier zal de markt meer in balans komen en krijgen zorgverzekeraars en farmaceuten minder macht."
       },
       {
         "name": "DENK",
         "position": "contra",
-        "opinion": "DENK vindt het onverantwoord om het hele zorgstelsel op de schop te gooien. Dit leidt tot te grote onzekerheid voor patiÃ«nten en zorgverleners, omdat we niet weten wat de effecten en de kosten zijn. In plaats van deze onzekerheid, wil DENK de macht van de zorgverzekeraars in het huidige systeem aan banden leggen. DENK wil ook wat doen aan de grote en dure administratieve lasten en ervoor zorgen dat het geld niet naar de winstrekening van de farmaceutische industrie gaat, maar naar de patiÃ«nten."
+        "opinion": "DENK vindt het onverantwoord om het hele zorgstelsel op de schop te gooien. Dit leidt tot te grote onzekerheid voor patiënten en zorgverleners, omdat we niet weten wat de effecten en de kosten zijn. In plaats van deze onzekerheid, wil DENK de macht van de zorgverzekeraars in het huidige systeem aan banden leggen. DENK wil ook wat doen aan de grote en dure administratieve lasten en ervoor zorgen dat het geld niet naar de winstrekening van de farmaceutische industrie gaat, maar naar de patiënten."
       },
       {
         "name": "Vrijzinnige Partij",
@@ -3284,7 +3284,7 @@ var subjects = [{
       {
         "name": "VNL",
         "position": "pro",
-        "opinion": "Nu de VS niet langer praktisch alleen wil opdraaien voor de kosten van de NAVO, is het noodzakelijker dan ooit dat Nederland zich aan zijn afspraken houdt. We moeten minstens 2 procent van ons nationaal inkomen besteden aan defensie. Dat betekent dat er 5 miljard extra in defensie moet worden geÃ¯nvesteerd. "
+        "opinion": "Nu de VS niet langer praktisch alleen wil opdraaien voor de kosten van de NAVO, is het noodzakelijker dan ooit dat Nederland zich aan zijn afspraken houdt. We moeten minstens 2 procent van ons nationaal inkomen besteden aan defensie. Dat betekent dat er 5 miljard extra in defensie moet worden geïnvesteerd. "
       },
       {
         "name": "Nieuwe Wegen",
@@ -3344,7 +3344,7 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "contra",
-        "opinion": "De hoogte van de defensieuitgaven moet gericht zijn op meer Europese efficiÃ«ntie en samenwerking. Dat betekent dat een betere afstemming Europees nodig is zodat ook betere inkoop mogelijk wordt. De Vrijzinnige Partij vindt dat het F-35 JSF-programma afgebouwd kan worden. Het is onlogisch een zeer duur vliegtuig te willen hebben afwijkend van de andere Europese landen."
+        "opinion": "De hoogte van de defensieuitgaven moet gericht zijn op meer Europese efficiëntie en samenwerking. Dat betekent dat een betere afstemming Europees nodig is zodat ook betere inkoop mogelijk wordt. De Vrijzinnige Partij vindt dat het F-35 JSF-programma afgebouwd kan worden. Het is onlogisch een zeer duur vliegtuig te willen hebben afwijkend van de andere Europese landen."
       },
       {
         "name": "Piratenpartij",
@@ -3354,7 +3354,7 @@ var subjects = [{
       {
         "name": "Artikel 1",
         "position": "contra",
-        "opinion": "Defensie is nodig voor veiligheid in binnen en buitenland. De kracht van Nederland ligt in wederopbouw en kennisoverdracht.\r\nDe salariÃ«ring van defensiepersoneel en investeren in goed oefen- en transportmateriaal vinden wij belangrijker dan de aanschaf van wapens uit het duurdere segment en gevechtsvliegtuigen. "
+        "opinion": "Defensie is nodig voor veiligheid in binnen en buitenland. De kracht van Nederland ligt in wederopbouw en kennisoverdracht.\r\nDe salariëring van defensiepersoneel en investeren in goed oefen- en transportmateriaal vinden wij belangrijker dan de aanschaf van wapens uit het duurdere segment en gevechtsvliegtuigen. "
       },
       {
         "name": "Libertarische Partij",
@@ -3389,7 +3389,7 @@ var subjects = [{
       {
         "name": "Vrijzinnige Partij",
         "position": "pro",
-        "opinion": "Om tot een verantwoord vrede en veiligheidsbeleid te komen is vorming van een Europees leger belangrijk. Ieder Europees land met eigen legertjes voor land lucht en zee (behalve als een land geen zee heeft) is inefficiÃ«nt, niet solidair en 19e eeuws nationalistisch. Een Europees leger geeft een beter checks &amp; balances in de wereld en maakt Nederland/Europa minder afhankelijk van de Verenigde Staten van Amerika."
+        "opinion": "Om tot een verantwoord vrede en veiligheidsbeleid te komen is vorming van een Europees leger belangrijk. Ieder Europees land met eigen legertjes voor land lucht en zee (behalve als een land geen zee heeft) is inefficiënt, niet solidair en 19e eeuws nationalistisch. Een Europees leger geeft een beter checks &amp; balances in de wereld en maakt Nederland/Europa minder afhankelijk van de Verenigde Staten van Amerika."
       },
       {
         "name": "Artikel 1",
@@ -3444,7 +3444,7 @@ var subjects = [{
       {
         "name": "50Plus",
         "position": "contra",
-        "opinion": "50PLUS is voor een nationaal leger, en tÃ©gen nog meer Europese integratie of delegatie van nationale bevoegdheden.. De Europese Unie heeft slechts drie kerntaken: economisch en monetair beleid, milieu- en energiebeleid en grensbeleid (veiligheid, defensie en buitenlands beleid). Samenwerken is goed en nodig, maar geen vorming van Ã©Ã©n leger."
+        "opinion": "50PLUS is voor een nationaal leger, en tégen nog meer Europese integratie of delegatie van nationale bevoegdheden.. De Europese Unie heeft slechts drie kerntaken: economisch en monetair beleid, milieu- en energiebeleid en grensbeleid (veiligheid, defensie en buitenlands beleid). Samenwerken is goed en nodig, maar geen vorming van één leger."
       },
       {
         "name": "OndernemersPartij",
@@ -3494,7 +3494,7 @@ var subjects = [{
     "parties": [{
         "name": "PvdA",
         "position": "pro",
-        "opinion": "De wereld hoort een goede plek te zijn voor iedereen. In het belang van mensen daar Ã©n van onszelf. Als we de wereld stabieler willen maken en het aantal vluchtelingen willen verminderen, moeten we kwetsbare landen helpen om veiliger en welvarender te worden. Alleen zo voorkom je dat mensen gaan vluchten, alleen zo kan iedereen een goed leven leiden."
+        "opinion": "De wereld hoort een goede plek te zijn voor iedereen. In het belang van mensen daar én van onszelf. Als we de wereld stabieler willen maken en het aantal vluchtelingen willen verminderen, moeten we kwetsbare landen helpen om veiliger en welvarender te worden. Alleen zo voorkom je dat mensen gaan vluchten, alleen zo kan iedereen een goed leven leiden."
       },
       {
         "name": "SP",
@@ -3624,7 +3624,7 @@ var subjects = [{
       {
         "name": "De Burger Beweging",
         "position": "pro",
-        "opinion": "Eens als het democratisch gehalte en het financiÃ«le beheer van de EU niet voldoende verbetert, het invoeren van een eerlijk geld en belastingsysteem en halveren van de bijdragen aan de EU met lid blijven van de EU niet mogelijk is."
+        "opinion": "Eens als het democratisch gehalte en het financiële beheer van de EU niet voldoende verbetert, het invoeren van een eerlijk geld en belastingsysteem en halveren van de bijdragen aan de EU met lid blijven van de EU niet mogelijk is."
       },
       {
         "name": "Libertarische Partij",
@@ -3659,7 +3659,7 @@ var subjects = [{
       {
         "name": "CDA",
         "position": "contra",
-        "opinion": "Nederland heeft een open economie en is voor haar veiligheid voor een groot deel afhankelijk van buitenlandse (Europese) mogendheden. Daarnaast vormt de EU de toegang voor Nederland tot een grote (interne ) markt met groot economisch potentieel. Uit de EU stappen zal Nederland grote economische schade brengen en veiligheidsrisicoâ€™s geven."
+        "opinion": "Nederland heeft een open economie en is voor haar veiligheid voor een groot deel afhankelijk van buitenlandse (Europese) mogendheden. Daarnaast vormt de EU de toegang voor Nederland tot een grote (interne ) markt met groot economisch potentieel. Uit de EU stappen zal Nederland grote economische schade brengen en veiligheidsrisico’s geven."
       },
       {
         "name": "D66",
@@ -3684,7 +3684,7 @@ var subjects = [{
       {
         "name": "Partij voor de Dieren",
         "position": "contra",
-        "opinion": "We zijn vÃ³Ã³r Europese samenwerking, maar tegen de huidige, ondemocratische EU. Brussel faciliteert met name multinationals en fixeert zich op 'economische groei' en 'handel' ten koste van mens, dier, natuur en milieu. We willen geen verdere overdracht van macht aan Brussel. Bij voorstellen tot machtsoverdracht komt er een bindend referendum."
+        "opinion": "We zijn vóór Europese samenwerking, maar tegen de huidige, ondemocratische EU. Brussel faciliteert met name multinationals en fixeert zich op 'economische groei' en 'handel' ten koste van mens, dier, natuur en milieu. We willen geen verdere overdracht van macht aan Brussel. Bij voorstellen tot machtsoverdracht komt er een bindend referendum."
       },
       {
         "name": "50Plus",
@@ -3714,7 +3714,7 @@ var subjects = [{
       {
         "name": "Piratenpartij",
         "position": "contra",
-        "opinion": "De Piratenpartij is kritisch ten opzichte van het huidige functioneren van de EU. De EU moet transparanter, democratischer en efficiÃ«nter worden gemaakt. De beste manier om dit te bereiken is om dat van binnenuit te doen."
+        "opinion": "De Piratenpartij is kritisch ten opzichte van het huidige functioneren van de EU. De EU moet transparanter, democratischer en efficiënter worden gemaakt. De beste manier om dit te bereiken is om dat van binnenuit te doen."
       },
       {
         "name": "Artikel 1",

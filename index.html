@@ -11,9 +11,60 @@
 </head>
 
 <body>
-<div class="container">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div id="stemwijzer-container" class="containers bg-white p-4 mt-4">
+                    <h1>
+                        Stemwijzer
+                    </h1>
+                    <p class="font-weight-bold">
+                        StemWijzer Tweede Kamer 2020
+                    </p>
+                    <p class="font-weight-bold">
+                        Test uw politieke voorkeur aan de hand van 30 stellingen
+                    </p>
+                    <button onclick="next();" class="btn btn-dark">
+                        Start
+                    </button>
+                </div>
+                <div id="vragen-container" class=" bg-white p-4 mt-4">
+                    <div onclick="back();" class="back-button">
+                        <i class="fas fa-arrow-left"></i>
+                    </div>
 
-</div>
+                    <div>
+                        <h1 id="vraagTitle"></h1>
+                        <p id="vraag"></p>
+                    </div>
+                    <div>
+                        <p class="question"></p>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="button-group">
+                                <button onclick="save('pro'); next();" class="btn btn-dark">
+                                    Eens
+                                </button>
+
+                                <button onclick="save(null); next();" class="btn btn-dark">
+                                    Geen van beide
+                                </button>
+
+                                <button onclick="save('contra'); next();" class="btn btn-dark">
+                                    Oneens
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
 </body>
 
+
 </html>
+<script src="js/data.js"></script>
+<script src="js/main.js"></script>
