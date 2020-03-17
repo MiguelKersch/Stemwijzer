@@ -1,10 +1,13 @@
-var getqeustionId = 0
+var getqeustionId = 0;
 
 
 
 var Title = document.getElementById("vraagTitle");
 var beschrijving = document.getElementById("vraag");
 
+parties.forEach(party => {
+    party.points = 0;
+});
 
 
 function next() {
@@ -34,12 +37,25 @@ function load() {
     beschrijving.innerHTML = subjects[getqeustionId].statement;
 }
 
-function save() {
+function save(answer) {
+    var savePoints = getqeustionId;
+    
 
+    for (var p = 0; p < parties.length - 1; p++) {
+        if (subjects[savePoints].parties[p].position == answer) {
+            if (document.getElementById('important').checked == true) {
+                parties[p].points += 2;
+            } else {
+                parties[p].points += 1;
+            }
+         
+        }
+    }
+    subjects[savePoints].myOpinion = answer;
 
 
 }
 
 function result() {
-
+    console.log(parties);
 }
