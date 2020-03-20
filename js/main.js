@@ -91,5 +91,21 @@ function removePoints() {
 
 
 function result() {
-    console.log(parties);
+    console.log(parties)
+    document.getElementById('vragen-container').style.display = 'none';
+    document.getElementById('result-container').style.display = 'block';
+
+    parties.sort(function (a, b) {
+        return b.points - a.points;
+    });
+    for (output = 0; output < parties.length - 1; output++) {
+
+        var element = document.createElement('li');
+        element.setAttribute("id", "result" + output, "class" , "list-group-item");
+        document.getElementById("outputElements").appendChild(element);
+
+        document.getElementById('result'+ output).innerHTML += parties[output].name + ' ' + Math.floor(50 / subjects.length * parties[output].points) + '%';
+    }
+
+
 }
