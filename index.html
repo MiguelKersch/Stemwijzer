@@ -12,9 +12,11 @@
 
 <body>
     <div class="container">
+
         <div class="row">
             <div class="col">
                 <div id="stemwijzer-container" class="containers bg-white p-4 mt-4">
+
                     <h1>
                         Stemwijzer
                     </h1>
@@ -29,6 +31,7 @@
                     </button>
                 </div>
                 <div id="vragen-container" class=" bg-white p-4 mt-4">
+                    <div class="progress" id="progress-bar"></div>
                     <div onclick="back();" class="back-button">
                         <i class="fas fa-arrow-left"></i>
                     </div>
@@ -54,19 +57,29 @@
                                 <button onclick="save('contra'); next();" class="btn btn-dark">
                                     Oneens
                                 </button>
+                                <div class="float-right">
+                                    <a onclick="skip();">
+                                        <p class="skip-button">Skip vraag</p>
+                                    </a>
+                                </div>
                             </div>
                             <div class="p-4 container">
-                                <input class="checkboxInput" id="important" type="checkbox">
-                                <p class="partyCheckbox">Laat dit ondewerp zwaarder meetellen</p>
+                                <input class="float-left checkboxInput" id="important" type="checkbox">
+                                <p class="partyCheckbox float-left">Laat dit ondewerp zwaarder meetellen</p>
 
                             </div>
+
                         </div>
+
                     </div>
                 </div>
                 <div style="display:none;" id="result-container">
-                    <ul class="list-group container bg-white p-4 mt-4" id="outputElements">
+
+                    <ul class="list-group container bg-white p-4 mt-6" id="outputElements">
+                        <div class="progress" id="progress-bar"></div>
 
                     </ul>
+
                 </div>
             </div>
 
@@ -76,5 +89,5 @@
 
 
 </html>
-<script src=" js/data.js"></script>
+<script src="js/data.js"></script>
 <script src="js/main.js"></script>

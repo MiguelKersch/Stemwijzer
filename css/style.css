@@ -11,3 +11,10 @@ body {
 .back-button:hover {
   color: orangered;
 }
+.skip-button:hover{
+  color: rgb(247, 11, 11);
+}
+.progress{
+  overflow: none;
+  border: 8px solid aqua;
+}

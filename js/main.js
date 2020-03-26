@@ -1,5 +1,5 @@
 var getqeustionId = -1;
-
+var progress = 100 / subjects.length;
 
 
 var Title = document.getElementById("vraagTitle");
@@ -33,6 +33,14 @@ function next() {
     }
 
 }
+function skip() {
+    getqeustionId++
+    if (getqeustionId < subjects.length) {
+        load();
+    } else {
+        result();
+    }
+}
 
 function back() {
     getqeustionId--;
@@ -51,7 +59,15 @@ function load() {
     } else {
         Title.innerHTML = subjects[getqeustionId].title;
         beschrijving.innerHTML = subjects[getqeustionId].statement;
+        progression();
     }
+
+}
+
+function progression() {
+    progress = 100 / subjects.length * getqeustionId;
+
+    document.getElementById("progress-bar").style.width = progress.toString() + "%";
 }
 
 function save(answer) {
@@ -91,7 +107,8 @@ function removePoints() {
 
 
 function result() {
-    console.log(parties)
+    progress = 100;
+    document.getElementById("progress-bar").style.width = progress.toString() + "%";
     document.getElementById('vragen-container').style.display = 'none';
     document.getElementById('result-container').style.display = 'block';
 
@@ -101,10 +118,10 @@ function result() {
     for (output = 0; output < parties.length - 1; output++) {
 
         var element = document.createElement('li');
-        element.setAttribute("id", "result" + output, "class" , "list-group-item");
+        element.setAttribute("id", "result" + output, "class", "list-group-item");
         document.getElementById("outputElements").appendChild(element);
 
-        document.getElementById('result'+ output).innerHTML += parties[output].name + ' ' + Math.floor(50 / subjects.length * parties[output].points) + '%';
+        document.getElementById('result' + output).innerHTML += parties[output].name + ' ' + Math.floor(100 / subjects.length * parties[output].points) + '%';
     }
 
 
