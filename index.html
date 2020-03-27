@@ -46,15 +46,15 @@
                     <div class="row">
                         <div class="col">
                             <div class="button-group">
-                                <button onclick="save('pro'); next();" class="btn btn-dark">
+                                <button id="pro" onclick="save('pro'); next();" class="btn btn-dark">
                                     Eens
                                 </button>
 
-                                <button onclick="save('none'); next();" class="btn btn-dark">
+                                <button id="none" onclick="save('none'); next();" class="btn btn-dark">
                                     Geen van beide
                                 </button>
 
-                                <button onclick="save('contra'); next();" class="btn btn-dark">
+                                <button id="contra" onclick="save('contra'); next();" class="btn btn-dark">
                                     Oneens
                                 </button>
                                 <div class="float-right">
@@ -75,10 +75,18 @@
                 </div>
                 <div style="display:none;" id="result-container">
 
-                    <ul class="list-group container bg-white p-4 mt-6" id="outputElements">
+                    <div class="container bg-white p-4 mt-6" id="outputElements">
                         <div class="progress" id="progress-bar"></div>
-
-                    </ul>
+                        <button class="float left btn btn-dark m-1" onclick="filter('seculair')" >
+                            <p>alleen Seculiere partijen</p>
+                        </button>
+                        <button class="float left  btn btn-dark m-1" onclick="filter('grote')">
+                            <p>alleen Grote partijen</p>
+                        </button>
+                        <button class="float left  btn btn-dark m-1" onclick="filter()">
+                            <p>Alles laten zien</p>
+                        </button>
+                    </div>
 
                 </div>
             </div>

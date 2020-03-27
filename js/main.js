@@ -27,6 +27,7 @@ function next() {
         document.getElementById("vragen-container").style.display = "block";
     }
     if (getqeustionId < subjects.length) {
+        resetButtonColor()
         load();
     } else {
         result();
@@ -44,12 +45,14 @@ function skip() {
 
 function back() {
     getqeustionId--;
-
+    progression();
     if (getqeustionId == -1) {
         document.getElementById("vragen-container").style.display = "none";
         document.getElementById("stemwijzer-container").style.display = "block";
     } else {
+        lastanswer();
         removePoints();
+
     }
     load();
 }
@@ -105,7 +108,6 @@ function removePoints() {
 
 }
 
-
 function result() {
     progress = 100;
     document.getElementById("progress-bar").style.width = progress.toString() + "%";
@@ -117,12 +119,44 @@ function result() {
     });
     for (output = 0; output < parties.length - 1; output++) {
 
-        var element = document.createElement('li');
-        element.setAttribute("id", "result" + output, "class", "list-group-item");
+        var element = document.createElement('div');
+        element.setAttribute("id", "result" + output);
         document.getElementById("outputElements").appendChild(element);
 
-        document.getElementById('result' + output).innerHTML += parties[output].name + ' ' + Math.floor(100 / subjects.length * parties[output].points) + '%';
+        document.getElementById('result' + output).innerHTML += parties[output].name + '-' + Math.floor(100 / subjects.length * parties[output].points) + '%';
     }
+}
 
+//the filter functie kijkt naar de optie die word meegegeven en veranderd met de hulp daarvan de display
+function filter(option) {
+    for (filterItem = 0; filterItem < parties.length - 1; filterItem++) {
+        var party = document.getElementById('result' + filterItem);
+        party.style.display = 'block';
+        if (option == 'seculair' && parties[filterItem].secular == false) {
+            party.style.display = 'none';
+        } else if (option == 'grote' && parties[filterItem].size < 20) {
+            party.style.display = 'none';
+        } else {
+            party.style.display = 'block';
 
+        }
+    }
+}
+
+function lastanswer() {
+    resetButtonColor()
+    if (subjects[getqeustionId].myOpinion == "pro") {
+        document.getElementById("pro").style.color = "green";
+    }
+    if (subjects[getqeustionId].myOpinion == "none") {
+        document.getElementById("none").style.color = "green";
+    }
+    if (subjects[getqeustionId].myOpinion == "contra") {
+        document.getElementById("contra").style.color = "green";
+    }
+}
+function resetButtonColor() {
+    document.getElementById("pro").style.color = "white";
+    document.getElementById("none").style.color = "white";
+    document.getElementById("contra").style.color = "white";
 }
