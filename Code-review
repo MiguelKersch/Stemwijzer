@@ -1,0 +1,8 @@
+Code review Stemwijzer
+Afgezien van wat inconsistenties in de camel-case van de functies en de spelfout in het woord question(is nu qeustion) geen bijzondere opmerkingen. 
+Voor de hoeveelheid ervaring met JS relatief efficiënt opgelost.
+
+Verbeter punten
+- Displayen van elementen in functie stoppen
+- Iets meer comments
+- switch case gebruik in lastanswer() aan te raden
