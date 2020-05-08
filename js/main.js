@@ -16,9 +16,6 @@ subjects.forEach(subject => {
 parties.forEach(party => {
     party.points = 0;
 });
-for (T = 0; T < subjects.length; T++) {
-    console.log(subjects[T])
-}
 
 // als je een antwoord heb gekozen en het is opgeslagen zorgt deze functie dat de volgenden vraag wordt laten zien
 function next() {
@@ -54,7 +51,6 @@ function back() {
     } else {
         lastanswer();
         removePoints();
-
     }
     load();
 }
