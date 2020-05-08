@@ -44,7 +44,7 @@ function skip() {
         result();
     }
 }
-    //zorgt ervoor dat je een vraag terug gaat
+//zorgt ervoor dat je een vraag terug gaat
 function back() {
     getqeustionId--;
     progression();
@@ -69,7 +69,7 @@ function load() {
     }
 
 }
-    //berekent de progressie met de hulp van getqeustionId en verandert de progressie balk om te laten zien hoe ver je bent
+//berekent de progressie met de hulp van getqeustionId en verandert de progressie balk om te laten zien hoe ver je bent
 function progression() {
     progress = 100 / subjects.length * getqeustionId;
 
@@ -152,10 +152,10 @@ function lastanswer() {
     if (subjects[getqeustionId].myOpinion == "pro") {
         document.getElementById("pro").style.color = "green";
     }
-    if (subjects[getqeustionId].myOpinion == "none") {
+    else if (subjects[getqeustionId].myOpinion == "none") {
         document.getElementById("none").style.color = "green";
     }
-    if (subjects[getqeustionId].myOpinion == "contra") {
+    else if (subjects[getqeustionId].myOpinion == "contra") {
         document.getElementById("contra").style.color = "green";
     }
 }
